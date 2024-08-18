@@ -45,11 +45,11 @@ enum Color {
 /**
   * RB-TFT1.8-V2 Block
   */
-  //% color="#275C6B" icon="\uf26c" weight=95 block="RB-TFT18-V2"
+  //% color="#275C6B" icon="\uf26c" weight=95 block="TFT-240x240"
  namespace RBTFT18 {
      // Display commands & constants
-     let TFTWIDTH = 130
-     let TFTHEIGHT = 162
+     let TFTWIDTH = 240
+     let TFTHEIGHT = 240
 
      /**
       * TFT Commands
